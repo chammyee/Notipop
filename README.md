@@ -38,8 +38,8 @@ macOS에는 "지금 화면이 녹화 중"인지 알려 주는 공식 API가 없�
 
 터미널 한 줄 — 다운로드·설치·실행까지. Gatekeeper 경고 없음:
 
-```bash
-curl -fsSL https://raw.githubusercontent.com/chammyee/DeskNudge/main/scripts/install.sh | bash
+```
+curl -fsSL https://raw.githubusercontent.com/chammyee/Notipop/main/scripts/install.sh | bash
 ```
 
 또는 [Releases](https://github.com/chammyee/Notipop/releases/latest)에서 zip 받아
