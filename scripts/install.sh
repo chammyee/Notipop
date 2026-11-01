@@ -3,7 +3,7 @@
 #   curl -fsSL https://raw.githubusercontent.com/chammyee/DeskNudge/main/scripts/install.sh | bash
 set -euo pipefail
 
-REPO="chammyee/DeskNudge"
+REPO="chammyee/Notipop"
 APP="Notipop.app"
 
 if [ "$(uname -m)" != "arm64" ]; then
