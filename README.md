@@ -42,7 +42,7 @@ macOS에는 "지금 화면이 녹화 중"인지 알려 주는 공식 API가 없�
 curl -fsSL https://raw.githubusercontent.com/chammyee/DeskNudge/main/scripts/install.sh | bash
 ```
 
-또는 [Releases](https://github.com/chammyee/DeskNudge/releases/latest)에서 zip 받아
+또는 [Releases](https://github.com/chammyee/Notipop/releases/latest)에서 zip 받아
 압축 해제 → `Notipop.app` 을 응용 프로그램으로 드래그 (이 경우 첫 실행 시 우클릭 → 열기).
 
 업데이트도 같은 한 줄 다시 실행하면 됨. 설정·이미지는 유지.
